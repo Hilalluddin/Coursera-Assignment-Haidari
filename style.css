@@ -261,7 +261,7 @@ h1 {
   font-size: 1.3em;
 }
 #address p {
-  color: #557c3e;
+  color: black;
   font-size: .8em;
   line-height: 1.8;
 }
@@ -329,7 +329,7 @@ h1 {
   font-size: 1.2em;
   text-transform: uppercase;
   background-color: #000;
-  color: #fff;
+  color: black;
   opacity: .8;
 }
 .category-tile:hover {
@@ -343,7 +343,7 @@ h1 {
 h2 {
   margin-bottom: 18px;
   text-align: center;
-  color: #ff4532;
+  color: light gray;
   font-size: 50px;
 }
 
