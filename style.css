@@ -329,7 +329,7 @@ h1 {
   font-size: 1.2em;
   text-transform: uppercase;
   background-color: #000;
-  color: black;
+  color: #fff;
   opacity: .8;
 }
 .category-tile:hover {
